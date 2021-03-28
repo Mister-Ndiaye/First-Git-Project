@@ -1,0 +1,58 @@
+h1
+{
+	text-align: center;
+	background-color: silver ;
+	margin-right: 6em;
+	margin-left: 6em ;
+}
+body
+{
+	font-size: 25px;
+	background-color: rgb(240,240,240);
+}
+
+#third 
+{
+	display: flex;
+	justify-content: center;
+
+} 
+#third div 
+{
+	margin-right: 7em;
+
+
+}
+
+
+#first 
+{
+	display: flex;
+	justify-content: center;
+    padding-right: 1em;
+} 
+#first div 
+{
+	padding-left: 5em;
+}
+
+
+
+
+#first2 
+{
+	display: flex;
+	justify-content: center;
+
+} 
+
+#second 
+{
+	display: flex;
+	justify-content: center;
+
+} 
+#intro
+{
+	max-width: 15em;
+}
